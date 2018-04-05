@@ -96,4 +96,4 @@ Changelog
 Author
 ------
 
-Sergii Chernenko <mailto:4e.sergei@gmail.com>
+Sergii Chernenko <4e.sergei@gmail.com>
