@@ -9,11 +9,16 @@ Requerements:
 -------------
 
 * Python 3.6
-* [Google Chrome](https://www.google.com/chrome/)
-* [selenium](http://selenium-python.readthedocs.io/installation.html)
-* [lxml](http://lxml.de/)
-* [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
-* [nltk](https://www.nltk.org/)
+* `Google Chrome 
+  <https://www.google.com/chrome/>`_
+* `selenium
+  <http://selenium-python.readthedocs.io/installation.html>`_
+* `lxml 
+  <http://lxml.de/>`_
+* `Beautiful Soup 
+  <https://www.crummy.com/software/BeautifulSoup/bs4/doc/>`_
+* `nltk 
+  <https://www.nltk.org/>`_
 
 Features
 --------
