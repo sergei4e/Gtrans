@@ -101,4 +101,4 @@ Changelog
 Author
 ------
 
-Sergii Chernenko <4e.sergei@gmail.com>
+`Sergii Chernenko <https://www.linkedin.com/in/sergey-chernenko/>`_
